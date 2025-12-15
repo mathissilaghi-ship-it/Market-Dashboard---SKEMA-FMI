@@ -86,5 +86,5 @@ To further enhance this tool, the following features are currently under conside
 This tool is intended for educational and research purposes. The strategies backtested are theoretical and do not account for transaction costs, slippage, or liquidity constraints.
 
 ---
-**Author:** [Your Name]  
+**Author:** Mathis Silaghi  
 **Master in Financial Markets & Investments** **SKEMA Business School**
