@@ -5,6 +5,8 @@
 ![Finance](https://img.shields.io/badge/Finance-Quantitative-green)
 ![Data](https://img.shields.io/badge/Data-Yahoo%20%7C%20FRED-orange)
 
+### Website: marketdashboard--mathissilaghi-rkfxyxasphj5n9ltbfaa2s
+
 ## 🎓 Context & Objective
 This project was developed as part of the **MSc Financial Markets & Investments** curriculum at **SKEMA Business School**.
 
